@@ -1,0 +1,25 @@
+html,
+body {
+    height: 100%;
+}
+
+.haha {
+    background-color: blueviolet;
+}
+
+.bg-linear {
+    background: linear-gradient(to right, #ee7724, #d8363a, #dd3675, #b44593);
+    /* background: white !important; */
+}
+
+.bg-button.active {
+    background: linear-gradient(to right, #fd0db5, #d836d8) !important;
+}
+
+.cus-btn-1:hover {
+    background: linear-gradient(to right, #fd0db5, #d836d8);
+}
+
+.cus-btn-1.active {
+    background-color: blue;
+}
